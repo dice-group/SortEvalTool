@@ -1,40 +1,90 @@
 package org.aksw.simba.controller;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import org.aksw.simba.HareEval.Data;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.ModelMap;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import com.google.gson.Gson;
 
 @Controller
 public class HAREController {
 
-	private static int counter = 0;
-	private static final String VIEW_INDEX = "index";
+	@Autowired
+	private ArrayList<Data> dataset = new ArrayList<Data>();
+	Data pivot;
 	private final static org.slf4j.Logger logger = LoggerFactory
 			.getLogger(HAREController.class);
 
-	@RequestMapping(value = "/", method = RequestMethod.GET)
-	public String welcome(ModelMap model) {
-
-		model.addAttribute("message", "Welcome");
-		model.addAttribute("counter", ++counter);
-		logger.debug("[welcome] counter : {}", counter);
-
-		// Spring uses InternalResourceViewResolver and return back index.jsp
-		return VIEW_INDEX;
+	public HAREController() {
 
 	}
 
-	@RequestMapping(value = "/{name}", method = RequestMethod.GET)
-	public String welcomeName(@PathVariable String name, ModelMap model) {
+	public Data getpivot() {
+		int middle = (int) Math.ceil((double) dataset.size() / 2);
+		return dataset.get(middle);
+	}
 
-		model.addAttribute("message", "Welcome " + name);
-		model.addAttribute("counter", ++counter);
-		logger.debug("[welcomeName] counter : {}", counter);
-		return VIEW_INDEX;
+	@RequestMapping(value = "/next", produces = "application/json;charset=utf-8")
+	public ResponseEntity<String> nextPair(
+			@RequestParam(value = "username") String userName) {
+		Data p = getpivot();
+		Gson gson = new Gson();
+		String user = gson.toJson(dataset);
+		HttpHeaders responseHeaders = new HttpHeaders();
+		responseHeaders.add("Content-Type", "application/json;charset=utf-8");
+		return new ResponseEntity<String>(user, responseHeaders, HttpStatus.OK);
 
 	}
 
+	private List<Data> quicksort(List<Data> input) {
+
+		if (input.size() <= 1) {
+			return input;
+		}
+
+		Data pivot = getpivot();
+
+		List<Integer> less = new ArrayList<Integer>();
+		List<Integer> greater = new ArrayList<Integer>();
+
+		for (int i = 0; i < input.size(); i++) {
+			if (input.get(i) <= pivot) {
+				if (i == middle) {
+					continue;
+				}
+				less.add(input.get(i));
+			} else {
+				greater.add(input.get(i));
+			}
+		}
+
+		return concatenate(quicksort(less), pivot, quicksort(greater));
+	}
+
+	private List<Data> concatenate(List<Data> less, Data pivot,
+			List<Data> greater) {
+
+		List<Data> list = new ArrayList<Data>();
+
+		for (int i = 0; i < less.size(); i++) {
+			list.add(less.get(i));
+		}
+
+		list.add(pivot);
+
+		for (int i = 0; i < greater.size(); i++) {
+			list.add(greater.get(i));
+		}
+
+		return list;
+	}
 }
