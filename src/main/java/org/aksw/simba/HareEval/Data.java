@@ -4,6 +4,11 @@ public class Data {
 
 	String uri;
 
+	public Data(String u) {
+		this.uri = u;
+	}
+
+	// Can add other attribute
 	public String getUri() {
 		return uri;
 	}
