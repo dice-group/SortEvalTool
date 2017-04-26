@@ -6,10 +6,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import net.minidev.json.JSONArray;
-
 import org.aksw.simba.hare.input.JsonReader;
 import org.aksw.simba.hare.model.Data;
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 import org.springframework.http.HttpStatus;
@@ -73,6 +72,8 @@ public class EvalController {
 	public ResponseEntity<ArrayList<Data>> getGreetings() throws ParseException {
 		ArrayList<Data> entityForComparison = new ArrayList<Data>();
 
+		// temp
+		entityForComparison = entityList;
 		return new ResponseEntity<ArrayList<Data>>(entityForComparison,
 				HttpStatus.OK);
 	}
