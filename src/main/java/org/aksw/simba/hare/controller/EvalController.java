@@ -69,13 +69,11 @@ public class EvalController {
 
 	// the function to interact with user
 	@RequestMapping(value = "/next", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<ArrayList<Data>> getGreetings() throws ParseException {
-		ArrayList<Data> entityForComparison = new ArrayList<Data>();
-
+	public ResponseEntity<Data> getEntity() throws ParseException {
+		Data entityForComparison;
 		// temp
-		entityForComparison = entityList;
-		return new ResponseEntity<ArrayList<Data>>(entityForComparison,
-				HttpStatus.OK);
+		entityForComparison = entityList.get(0);
+		return new ResponseEntity<Data>(entityForComparison, HttpStatus.OK);
 	}
 
 	// merge sort code to sort the list
