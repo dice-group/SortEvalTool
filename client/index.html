@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>SortEvalTool</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.1/css/bulma.min.css">
+    <link rel="stylesheet" href="./main.css">
+  </head>
+  <body>
+    <div class="container" id="app">
+      <nav class="nav">
+        <div class="nav-center">
+          <div class="nav-item">
+            Category:&nbsp;<strong>{{ category.split(':')[1] }}</strong>
+          </div>
+        </div>
+      </nav>
+      <div class="columns">
+        <div v-show="!itemLeft.name && !itemRight.name" class="column content">
+          <h1>You are done!</h1>
+        </div>
+        <div class="column content">
+          <h1>
+            <a v-bind:href="itemLeft.uri">{{ itemLeft.name }}</a>
+          </h1>
+          <button v-show="itemLeft.name" class="button is-info margin-bottom" v-on:click="pick(itemLeft)">
+            This one
+          </button>
+          <div>{{ itemLeft.abstract }}</div>
+        </div>
+        <div class="column content">
+          <h1>
+            <a v-bind:href="itemRight.uri">{{ itemRight.name }}</a>
+          </h1>
+          <button v-show="itemRight.name" class="button is-info margin-bottom" v-on:click="pick(itemRight)">
+            This one
+          </button>
+          <div>{{ itemRight.abstract }}</div>
+        </div>
+      </div>
+      <div class="columns">
+        <pre class="column">uris: {{ JSON.stringify(uris, null, 2) }}</pre>
+        <pre class="column">toMerge: {{ JSON.stringify(toMerge, null, 2) }}</pre>
+        <pre class="column">results: {{ JSON.stringify(results, null, 2) }}</pre>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://unpkg.com/lodash"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>
