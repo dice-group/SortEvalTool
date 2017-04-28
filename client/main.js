@@ -122,6 +122,12 @@ const pick = item => {
         const [one, two] = secondArr.data;
         appData.toMerge[1] = {data: [two, one], sorted: true};
       }
+    } else {
+      if (!firstArr.sorted && firstArr.data.length === 2) {
+        appData.toMerge[0].sorted = true;
+      } else if (!secondArr.sorted && secondArr.data.length === 2) {
+        appData.toMerge[1].sorted = true;
+      }
     }
     nextPair();
     return;
