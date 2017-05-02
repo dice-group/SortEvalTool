@@ -1,3 +1,4 @@
+const URL_BASE = 'http://localhost:8080';
 const appData = {
   category: '',
   uris: [],
@@ -12,7 +13,10 @@ const split = arr => {
   const length = arr.length;
 
   if (length <= 2) {
-    return appData.toMerge.push({data: arr, sorted: false});
+    return appData.toMerge.push({
+      data: arr,
+      sorted: false,
+    });
   }
 
   const middle = Math.floor(length / 2);
@@ -47,6 +51,26 @@ const triplesToObject = (triples, uri) => {
   return result;
 };
 
+const save = async () => {
+  const {results} = appData;
+  const body = new FormData();
+  body.append(
+    'json',
+    JSON.stringify({
+      results,
+    })
+  );
+  // TODO: uncomment me when save endpoint is implemented
+  // fetch(`${URL_BASE}/save`, {
+  // method: 'POST',
+  // body,
+  // })
+  // .then(() => {
+    getData();
+  // })
+  // .catch(e => console.error("Couldn't save results:", e));
+};
+
 const nextPair = async () => {
   const [firstArr, secondArr] = appData.toMerge;
 
@@ -54,12 +78,16 @@ const nextPair = async () => {
     appData.itemLeft = {};
     appData.itemRight = {};
     appData.results = appData.toMerge.shift().data;
+    save();
     return;
   }
 
   if (!firstArr.data.length && !secondArr.data.length) {
     appData.toMerge.splice(0, 2);
-    appData.toMerge.push({data: appData.results, sorted: true});
+    appData.toMerge.push({
+      data: appData.results,
+      sorted: true,
+    });
     appData.results = [];
     nextPair();
     return;
@@ -117,10 +145,16 @@ const pick = item => {
     if (appData.itemRight.uri === item.uri) {
       if (!firstArr.sorted && firstArr.data.length === 2) {
         const [one, two] = firstArr.data;
-        appData.toMerge[0] = {data: [two, one], sorted: true};
+        appData.toMerge[0] = {
+          data: [two, one],
+          sorted: true,
+        };
       } else if (!secondArr.sorted && secondArr.data.length === 2) {
         const [one, two] = secondArr.data;
-        appData.toMerge[1] = {data: [two, one], sorted: true};
+        appData.toMerge[1] = {
+          data: [two, one],
+          sorted: true,
+        };
       }
     } else {
       if (!firstArr.sorted && firstArr.data.length === 2) {
@@ -143,7 +177,12 @@ const pick = item => {
 };
 
 const getData = async () => {
-  const json = await fetch('http://localhost:8080/next').then(r => r.json());
+  const json = await fetch(`${URL_BASE}/next`).then(r => r.json());
+  appData.toMerge = [];
+  appData.results = [];
+  appData.itemLeft = {};
+  appData.itemRight = {};
+  appData.fromOneArr = false;
   appData.category = json.category;
   appData.uris = json.uri;
   // split into arrays for merge-sort
