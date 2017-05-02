@@ -6,14 +6,31 @@
   </head>
   <body>
     <div class="container" id="app">
-      <nav class="nav">
+      <!-- login UI -->
+      <div class="content" style="padding-top: 20px;" v-show="!username">
+        <h2>Enter username to start.</h2>
+        <div class="field">
+          <label class="label">Username</label>
+          <p class="control">
+            <input class="input" type="text" placeholder="Text input" v-model="usernameInput">
+          </p>
+        </div>
+        <p class="control">
+          <button class="button is-primary" v-on:click="doLogin()">
+            Submit
+          </button>
+        </p>
+      </div>
+
+      <!-- sorting UI -->
+      <nav class="nav" v-show="!!username">
         <div class="nav-center">
           <div class="nav-item">
             Category:&nbsp;<strong>{{ category.split(':')[1] }}</strong>
           </div>
         </div>
       </nav>
-      <div class="columns">
+      <div class="columns" v-show="!!username">
         <div v-show="!itemLeft.name && !itemRight.name" class="column content">
           <h1>You are done!</h1>
         </div>
@@ -36,7 +53,7 @@
           <div>{{ itemRight.abstract }}</div>
         </div>
       </div>
-      <div class="columns">
+      <div class="columns" v-show="!!username">
         <pre class="column">uris: {{ JSON.stringify(uris, null, 2) }}</pre>
         <pre class="column">toMerge: {{ JSON.stringify(toMerge, null, 2) }}</pre>
         <pre class="column">results: {{ JSON.stringify(results, null, 2) }}</pre>

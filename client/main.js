@@ -7,6 +7,9 @@ const appData = {
   itemLeft: {},
   itemRight: {},
   fromOneArr: false,
+  login: true,
+  username: undefined,
+  usernameInput: '',
 };
 
 const split = arr => {
@@ -61,7 +64,7 @@ const save = async () => {
     })
   );
   // TODO: uncomment me when save endpoint is implemented
-  // fetch(`${URL_BASE}/save`, {
+  // fetch(`${URL_BASE}/save?username=${encodeURIComponent(appData.username)}`, {
   // method: 'POST',
   // body,
   // })
@@ -177,7 +180,7 @@ const pick = item => {
 };
 
 const getData = async () => {
-  const json = await fetch(`${URL_BASE}/next`).then(r => r.json());
+  const json = await fetch(`${URL_BASE}/next?username=${encodeURIComponent(appData.username)}`).then(r => r.json());
   appData.toMerge = [];
   appData.results = [];
   appData.itemLeft = {};
@@ -191,11 +194,16 @@ const getData = async () => {
   nextPair();
 };
 
+const doLogin = () => {
+  appData.username = appData.usernameInput;
+  getData();
+};
+
 const app = new Vue({
   el: '#app',
   data: appData,
-  created: getData,
   methods: {
     pick,
+    doLogin,
   },
 });
