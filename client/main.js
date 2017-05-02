@@ -1,5 +1,6 @@
 const URL_BASE = 'http://localhost:8080';
 const appData = {
+  debug: false,
   category: '',
   uris: [],
   toMerge: [],
@@ -11,6 +12,11 @@ const appData = {
   username: undefined,
   usernameInput: '',
 };
+
+// konami code to toggle debugging output
+Mousetrap.bind('up up down down left right left right b a enter', () => {
+  appData.debug = !appData.debug;
+});
 
 const split = arr => {
   const length = arr.length;

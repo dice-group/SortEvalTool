@@ -53,15 +53,19 @@
           <div>{{ itemRight.abstract }}</div>
         </div>
       </div>
-      <div class="columns" v-show="!!username">
+      <div class="content" v-show="debug">
+        <h2 style="color: red;">Debugging output:</h2>
+      </div>
+      <div class="columns" v-show="debug">
         <pre class="column">uris: {{ JSON.stringify(uris, null, 2) }}</pre>
         <pre class="column">toMerge: {{ JSON.stringify(toMerge, null, 2) }}</pre>
         <pre class="column">results: {{ JSON.stringify(results, null, 2) }}</pre>
       </div>
     </div>
 
-    <script src="https://unpkg.com/vue"></script>
-    <script src="https://unpkg.com/lodash"></script>
+    <script src="https://unpkg.com/vue@2.3.1/dist/vue.min.js"></script>
+    <script src="https://unpkg.com/lodash@4.17.4/lodash.min.js"></script>
+    <script src="https://unpkg.com/mousetrap@1.6.1/mousetrap.min.js"></script>
     <script src="./main.js"></script>
   </body>
 </html>
