@@ -74,7 +74,7 @@ public class EvalController {
 	public ResponseEntity<Data> getEntity() throws ParseException {
 		Data entityForComparison;
 		// temp
-		entityForComparison = entityList.get(0);
+		entityForComparison = entityList.get(1);
 		return new ResponseEntity<Data>(entityForComparison, HttpStatus.OK);
 	}
 
