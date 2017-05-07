@@ -8,23 +8,22 @@ import java.util.HashMap;
 
 import org.aksw.simba.hare.input.JsonReader;
 import org.aksw.simba.hare.model.Data;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class EvalController {
 
 	ArrayList<Data> entityList = new ArrayList<Data>();
-	// should be equal to the return of mergesort_sort () function
-	ArrayList<Data> resultList = new ArrayList<Data>();
+
+	// temp solution to Database
+	HashMap<String, Integer> userLog = new HashMap<String, Integer>();
 
 	// contructor to read the file
 	public EvalController() {
@@ -38,8 +37,20 @@ public class EvalController {
 
 	}
 
-	// temp solution to Database
-	HashMap<String, String> userLog = new HashMap<String, String>();
+	public int getUserCategory(String userName) {
+		int userCategory;
+		if (userLog.containsKey(userName) == false) {
+			userLog.put(userName, 0);
+		}
+		userCategory = userLog.get(userName);
+		return userCategory;
+	}
+
+	public Data getNextCategory(String userName) {
+		Data nextCategory = entityList.get(this.getUserCategory(userName));
+		userLog.put(userName, userLog.get(userName) + 1);
+		return nextCategory;
+	}
 
 	// result file creating function
 	public void writeToFile(String userInput, String userName)
@@ -53,15 +64,6 @@ public class EvalController {
 		}
 		FileWriter fileWriter = new FileWriter(resultfile, true);
 
-		for (Data res : resultList) {
-			JSONObject obj = new JSONObject();
-			obj.put("Category", res.getCategory());
-			JSONArray uris = new JSONArray();
-			uris.add(res.getUri());
-			obj.put("URI", uris);
-
-		}
-
 		fileWriter.write(userInput);
 		fileWriter.flush();
 		fileWriter.close();
@@ -69,46 +71,28 @@ public class EvalController {
 	}
 
 	// the function to interact with user
-	@CrossOrigin(origins = "*")
 	@RequestMapping(value = "/next", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<Data> getEntity() throws ParseException {
-		Data entityForComparison;
-		// temp
-		entityForComparison = entityList.get(1);
+	public ResponseEntity<Data> getEntity(
+			@RequestParam(value = "username") String userName)
+			throws ParseException {
+
+		Data entityForComparison = getNextCategory(userName);
+		if (entityForComparison == null) {
+			return new ResponseEntity<Data>(entityForComparison,
+					HttpStatus.NO_CONTENT);
+		}
 		return new ResponseEntity<Data>(entityForComparison, HttpStatus.OK);
 	}
 
-	// merge sort code to sort the list
-	public ArrayList<Data> mergesort_sort(ArrayList<Data> list) {
-		if (list.size() == 1) {
-			return list;
-		} else {
-			ArrayList<Data> left = new ArrayList<Data>();
-			for (int i = 0; i < list.size() / 2; i++) {
-				left.add(list.get(i));
-			}
-			ArrayList<Data> right = new ArrayList<Data>();
-			for (int i = list.size() / 2; i < list.size(); i++) {
-				right.add(list.get(i));
-			}
-			return mergesort_merge(mergesort_sort(left), mergesort_sort(right));
+	@RequestMapping(value = "/save", method = RequestMethod.POST)
+	public String saveResult(@RequestParam(value = "username") String userName,
+			@RequestParam(value = "result") String Result) {
+		try {
+			this.writeToFile(Result, userName);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
+		return "redirect:/next?username=" + userName;
 	}
-
-	// Actual merging of the left and right list
-	private ArrayList<Data> mergesort_merge(ArrayList<Data> leftList,
-			ArrayList<Data> rightList) {
-		ArrayList<Data> result = new ArrayList<Data>();
-		while (leftList.size() > 0 && rightList.size() > 0) {
-			// TODO: Code to send to user
-		}
-		for (Data i : leftList) {
-			result.add(i);
-		}
-		for (Data i : rightList) {
-			result.add(i);
-		}
-		return result;
-	}
-
 }

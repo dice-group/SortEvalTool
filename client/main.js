@@ -70,14 +70,14 @@ const save = async () => {
     })
   );
   // TODO: uncomment me when save endpoint is implemented
-  // fetch(`${URL_BASE}/save?username=${encodeURIComponent(appData.username)}`, {
-  // method: 'POST',
-  // body,
-  // })
-  // .then(() => {
+  fetch(`${URL_BASE}/save?username=${encodeURIComponent(appData.username)}`, {
+   method: 'POST',
+   body,
+  })
+   .then(() => {
     getData();
-  // })
-  // .catch(e => console.error("Couldn't save results:", e));
+   })
+   .catch(e => console.error("Couldn't save results:", e));
 };
 
 const nextPair = async () => {

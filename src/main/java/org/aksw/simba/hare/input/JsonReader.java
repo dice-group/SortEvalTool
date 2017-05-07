@@ -18,18 +18,26 @@ public class JsonReader {
 		JSONParser parser = new JSONParser();
 		ArrayList<String> uriList;
 		try {
+
 			Object obj = parser.parse(new FileReader(fileName));
+
 			JSONObject jsonObject = (JSONObject) obj;
+
 			Iterator<?> keys = jsonObject.keySet().iterator();
+
 			while (keys.hasNext()) {
+
 				uriList = new ArrayList<String>();
+
 				String category = (String) keys.next();
+
 				JSONArray jsonArray = (JSONArray) jsonObject.get(category);
+
 				for (Object object : jsonArray) {
 					uriList.add(object.toString());
 				}
-				elementList.add(new Data(category, uriList));
 
+				elementList.add(new Data(category, uriList));
 			}
 
 		} catch (IOException e) {
