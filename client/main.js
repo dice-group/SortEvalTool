@@ -62,22 +62,20 @@ const triplesToObject = (triples, uri) => {
 
 const save = async () => {
   const {results} = appData;
-  const body = new FormData();
-  body.append(
-    'json',
-    JSON.stringify({
-      results,
-    })
-  );
   // TODO: uncomment me when save endpoint is implemented
   fetch(`${URL_BASE}/save?username=${encodeURIComponent(appData.username)}`, {
-   method: 'POST',
-   body,
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    method: 'POST',
+    body: JSON.stringify({
+      result: results,
+    }),
   })
-   .then(() => {
-    getData();
-   })
-   .catch(e => console.error("Couldn't save results:", e));
+    .then(() => getData())
+    .catch(e =>
+      swal({title: "Couldn't save results!", text: e.toString(), type: 'error'})
+    );
 };
 
 const nextPair = async () => {
@@ -186,7 +184,17 @@ const pick = item => {
 };
 
 const getData = async () => {
-  const json = await fetch(`${URL_BASE}/next?username=${encodeURIComponent(appData.username)}`).then(r => r.json());
+  const json = await fetch(
+    `${URL_BASE}/next?username=${encodeURIComponent(appData.username)}`
+  )
+    .then(r => r.json())
+    .catch(e =>
+      swal({
+        title: "Couldn't get next entries!",
+        text: e.toString(),
+        type: 'error',
+      })
+    );
   appData.toMerge = [];
   appData.results = [];
   appData.itemLeft = {};
