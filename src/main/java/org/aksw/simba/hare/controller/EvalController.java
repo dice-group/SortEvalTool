@@ -15,6 +15,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
@@ -85,10 +86,10 @@ public class EvalController {
 	}
 
 	@RequestMapping(value = "/save", method = RequestMethod.POST)
-	public String saveResult(@RequestParam(value = "username") String userName,
-			@RequestParam(value = "result") String Result) {
+	@ResponseBody
+	public String saveResult(@RequestParam(value = "username") String userName) {
 		try {
-			this.writeToFile(Result, userName);
+			this.writeToFile(this.toString(), userName);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

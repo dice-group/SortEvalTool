@@ -1,9 +1,21 @@
 package org.aksw.simba.hare.input;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Iterator;
 
 import org.aksw.simba.hare.model.Data;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.h2.command.dml.Set;
 
 import com.hp.hpl.jena.query.ParameterizedSparqlString;
 import com.hp.hpl.jena.query.QueryExecution;
@@ -13,51 +25,78 @@ import com.hp.hpl.jena.query.ResultSet;
 
 public class StatGeneration {
 
-	private static final String BASE_URI = "http://dbpedia.org/sparql";
-	ArrayList<String> CATEGORIES = new ArrayList<String>(Arrays.asList("City",
-			"University", "VideoGame", "SpaceStation", "Mountain", "Hotel",
-			"EurovisionSongContestEntry", "Drug", "Comedian", "ChessPlayer",
-			"Band", "Album", "Person", "Automobile", "HistoricPlace", "Town",
-			"MilitaryConflict", "ProgrammingLanguage", "Country"));
+	public static void main(String[] args) throws IOException {
+		HAREResultReader hr = new HAREResultReader();
 
-	public ResultSet getPageRankResults(String endpoint, String cat) {
-		ParameterizedSparqlString sparql_query = new ParameterizedSparqlString(
-				"PREFIX owl: <http://www.w3.org/2002/07/owl#>\n"
-						+ "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\n"
-						+ "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n"
-						+ "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\n"
-						+ "PREFIX dbo:<http://dbpedia.org/ontology/>\n"
-						+ "PREFIX vrank:<http://purl.org/voc/vrank#>\n"
-						+ "SELECT DISTINCT ?s ?v \n" + "WHERE {\n"
-						+ "?s rdf:type+ dbo:" + cat + ".\n"
-						+ "?s vrank:hasRank/vrank:rankValue ?v. \n" + "}\n"
-						+ "ORDER BY DESC(?v) LIMIT 10\n");
+		StatGeneration sg = new StatGeneration();
+		ArrayList<Data> hareResult = new ArrayList<Data>();
+		hareResult = hr.getHareResults();
+		ArrayList<Data> prResult = new ArrayList<Data>();
+		prResult = hr.getPRResults();
 
-		QueryExecution exec = QueryExecutionFactory.sparqlService(endpoint,
-				sparql_query.asQuery());
-		return exec.execSelect();
-	}
+		BufferedWriter out = new BufferedWriter(new FileWriter("output.txt"));
 
-	public static void main(String[] args) {
-		StatGeneration comparator = new StatGeneration();
-		ArrayList<Data> entity_list = new ArrayList<Data>();
-		for (String catName : comparator.CATEGORIES) {
-			System.out.println(catName + ",");
+		HashMap<String, ArrayList<Pairs>> setDiff = sg.calcuateSetDifference(sg.generatePairs(hareResult, "HARE"),
+				sg.generatePairs(prResult, "PAGERANK"));
 
-			ResultSet list = comparator.getPageRankResults(
-					comparator.getBaseUri(), catName);
-			ArrayList<String> members = new ArrayList<String>();
-			while (list.hasNext()) {
-				QuerySolution qs = list.next();
-				members.add(new String(qs.getResource("s").getURI()));
-
+		for (String key : setDiff.keySet()) {
+			out.write(key + "\n");
+			out.write("======================================" + "\n");
+			ArrayList<Pairs> res = setDiff.get(key);
+						for (Pairs ele : res) {
+				out.write(ele.resultFrom + "\n");
+				out.write("=============" + "\n");
+				out.write(ele.left.toString() + "\n");
+				out.write(ele.right.toString() + "\n");
+				out.write("============END OF PAIR=====================" + "\n");
 			}
-			entity_list.add(new Data(catName, members));
+			out.write("============END OF CATEGORY=====================" + "\n\n");
 		}
 
 	}
 
-	public String getBaseUri() {
-		return BASE_URI;
+	public HashMap<String, ArrayList<Pairs>> calcuateSetDifference(HashMap<String, ArrayList<Pairs>> hare,
+			HashMap<String, ArrayList<Pairs>> pr) {
+
+		HashMap<String, ArrayList<Pairs>> setDifference = new HashMap<String, ArrayList<Pairs>>();
+
+		for (String key : pr.keySet()) {
+			if (hare.containsKey(key)) {
+				ArrayList<Pairs> prUriList = pr.get(key);
+				ArrayList<Pairs> hareUriList = hare.get(key);
+				System.out.println(key);
+				System.out.println("pR LIST "+ prUriList.size());
+				System.out.println("hare LIST "+ hareUriList.size());
+				ArrayList<Pairs> res = prUriList;
+				ArrayList<Pairs> res1 = hareUriList;
+				res.removeAll(hareUriList);
+				res1.removeAll(prUriList);
+				res.addAll(res1);
+				System.out.println("Final");
+				System.out.println(res.size());
+				setDifference.put(key, res);
+			}
+		}
+		return setDifference;
+	}
+
+	public HashMap<String, ArrayList<Pairs>> generatePairs(ArrayList<Data> list, String resultFrom) {
+		HashMap<String, ArrayList<Pairs>> hmap = new HashMap<String, ArrayList<Pairs>>();
+
+		for (Data cat : list) {
+			ArrayList<Pairs> uriList = new ArrayList<Pairs>();
+			for (String ele : cat.getUri()) {
+				for (String ele1 : cat.getUri()) {
+					if (!ele.equals(ele1)) {
+						uriList.add(new Pairs(ele, ele1, resultFrom));
+					}
+				}
+			}
+			hmap.put(cat.getCategory(), uriList);
+
+		}
+
+		return hmap;
+
 	}
 }
