@@ -27,23 +27,21 @@ public class HAREResultReader {
 
 	public ArrayList<Data> getHareResults() throws IOException {
 		File f = new File("/Users/Kunal/workspace/RankedLists");
-		
-
 		File[] files = f.listFiles();
 		for (File file : files) {
 			String category = file.getName();
-			BufferedReader br = new BufferedReader(new FileReader(file.getAbsolutePath()));
-			String line;
-			ArrayList<String> uriList = new ArrayList<String>();
-			while (((line = br.readLine()) != null) && uriList.size() != 10) {
-				line = line.split(" ")[0];
-
-				uriList.add(line);
+			if (category.endsWith(".txt")) {
+				BufferedReader br = new BufferedReader(new FileReader(file.getAbsolutePath()));
+				String line;
+				ArrayList<String> uriList = new ArrayList<String>();
+				while (((line = br.readLine()) != null) && uriList.size() != 10) {
+					line = line.split(" ")[0];
+					uriList.add(line);
+				}
+				category = category.split("_H")[0];
+				hareResults.add(new Data(category, uriList));
+				//System.out.println("HARE   size " + category + " " + uriList.size());
 			}
-			category = category.split("_H")[0];
-		
-			hareResults.add(new Data(category, uriList));
-			//System.out.println("HARE    "+category);
 		}
 
 		return hareResults;
@@ -66,12 +64,10 @@ public class HAREResultReader {
 		ArrayList<Data> pageRankResults = new ArrayList<Data>();
 		for (String catName : this.CATEGORIES) {
 			ResultSet list = this.executePageRankQuery(this.BASE_URI, catName);
-			//System.out.println("PR:    "+catName);
 			ArrayList<String> members = new ArrayList<String>();
 			while (list.hasNext()) {
 				QuerySolution qs = list.next();
 				members.add(new String(qs.getResource("s").getURI()));
-
 			}
 			pageRankResults.add(new Data(catName, members));
 		}
