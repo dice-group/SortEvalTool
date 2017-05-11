@@ -1,0 +1,2756 @@
+PAGERANK
+=============
+Drug
+======================================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Cocaine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Epinephrine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Aspirin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Vitamin_C
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Cortisol
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Heroin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Morphine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sulfur
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Epinephrine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Aspirin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Vitamin_C
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Cortisol
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Heroin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Morphine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cocaine
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Epinephrine
+http://dbpedia.org/resource/Aspirin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Epinephrine
+http://dbpedia.org/resource/Vitamin_C
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Epinephrine
+http://dbpedia.org/resource/Heroin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Epinephrine
+http://dbpedia.org/resource/Morphine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Epinephrine
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Epinephrine
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aspirin
+http://dbpedia.org/resource/Vitamin_C
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aspirin
+http://dbpedia.org/resource/Cortisol
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aspirin
+http://dbpedia.org/resource/Heroin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aspirin
+http://dbpedia.org/resource/Morphine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aspirin
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aspirin
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vitamin_C
+http://dbpedia.org/resource/Cortisol
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vitamin_C
+http://dbpedia.org/resource/Heroin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vitamin_C
+http://dbpedia.org/resource/Morphine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vitamin_C
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vitamin_C
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cortisol
+http://dbpedia.org/resource/Heroin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cortisol
+http://dbpedia.org/resource/Morphine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cortisol
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Cortisol
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heroin
+http://dbpedia.org/resource/Morphine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heroin
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heroin
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Morphine
+http://dbpedia.org/resource/Caffeine
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Morphine
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Caffeine
+http://dbpedia.org/resource/Testosterone
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+SpaceStation
+======================================
+=============
+http://dbpedia.org/resource/International_Space_Station
+http://dbpedia.org/resource/Salyut_7
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/International_Space_Station
+http://dbpedia.org/resource/Space_Station_Freedom
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/International_Space_Station
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mir
+http://dbpedia.org/resource/Salyut_7
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mir
+http://dbpedia.org/resource/Space_Station_Freedom
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mir
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Skylab
+http://dbpedia.org/resource/Salyut_7
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Skylab
+http://dbpedia.org/resource/Space_Station_Freedom
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Skylab
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tiangong-1
+http://dbpedia.org/resource/Salyut_7
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tiangong-1
+http://dbpedia.org/resource/Space_Station_Freedom
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tiangong-1
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Salyut_1
+http://dbpedia.org/resource/Salyut_7
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Salyut_1
+http://dbpedia.org/resource/Space_Station_Freedom
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Salyut_1
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Manned_Orbiting_Laboratory
+http://dbpedia.org/resource/Salyut_7
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Manned_Orbiting_Laboratory
+http://dbpedia.org/resource/Space_Station_Freedom
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Manned_Orbiting_Laboratory
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Salyut_7
+http://dbpedia.org/resource/Space_Station_Freedom
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Salyut_7
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Salyut_7
+http://dbpedia.org/resource/Tiangong_program
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Space_Station_Freedom
+http://dbpedia.org/resource/Salyut_6
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Space_Station_Freedom
+http://dbpedia.org/resource/Tiangong_program
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Salyut_6
+http://dbpedia.org/resource/Tiangong_program
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Automobile
+======================================
+=============
+http://dbpedia.org/resource/Volkswagen_Beetle
+http://dbpedia.org/resource/Ford_Model_T
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Volkswagen_Beetle
+http://dbpedia.org/resource/Chevrolet_Corvette
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Volkswagen_Beetle
+http://dbpedia.org/resource/School_bus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Volkswagen_Beetle
+http://dbpedia.org/resource/Porsche_911
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Volkswagen_Beetle
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/Mini
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/Chevrolet_Corvette
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/Volkswagen_Golf
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/School_bus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/Subaru_Impreza
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/Porsche_911
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/Mitsubishi_Lancer_Evolution
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ford_Model_T
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mini
+http://dbpedia.org/resource/Chevrolet_Corvette
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mini
+http://dbpedia.org/resource/School_bus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mini
+http://dbpedia.org/resource/Porsche_911
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mini
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chevrolet_Corvette
+http://dbpedia.org/resource/Volkswagen_Golf
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chevrolet_Corvette
+http://dbpedia.org/resource/School_bus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chevrolet_Corvette
+http://dbpedia.org/resource/Subaru_Impreza
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chevrolet_Corvette
+http://dbpedia.org/resource/Porsche_911
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chevrolet_Corvette
+http://dbpedia.org/resource/Mitsubishi_Lancer_Evolution
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chevrolet_Corvette
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Volkswagen_Golf
+http://dbpedia.org/resource/School_bus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Volkswagen_Golf
+http://dbpedia.org/resource/Porsche_911
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Volkswagen_Golf
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/School_bus
+http://dbpedia.org/resource/Subaru_Impreza
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/School_bus
+http://dbpedia.org/resource/Porsche_911
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/School_bus
+http://dbpedia.org/resource/Mitsubishi_Lancer_Evolution
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/School_bus
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Subaru_Impreza
+http://dbpedia.org/resource/Porsche_911
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Subaru_Impreza
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Porsche_911
+http://dbpedia.org/resource/Mitsubishi_Lancer_Evolution
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Porsche_911
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mitsubishi_Lancer_Evolution
+http://dbpedia.org/resource/Ford_Mustang
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+EurovisionSongContestEntry
+======================================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/L'amour_est_bleu
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/Eres_tú
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/'Ajde,_kroči
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/Ding-a-dong
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/Ein_bißchen_Frieden
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/Reise_nach_Jerusalem_–_Kudüs'e_seyahat
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/All_Kinds_of_Everything
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/Eres_tú
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/'Ajde,_kroči
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/Ding-a-dong
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/Ein_bißchen_Frieden
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/Reise_nach_Jerusalem_–_Kudüs'e_seyahat
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/L'amour_est_bleu
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eres_tú
+http://dbpedia.org/resource/Ding-a-dong
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eres_tú
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eres_tú
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eres_tú
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/'Ajde,_kroči
+http://dbpedia.org/resource/Ding-a-dong
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/'Ajde,_kroči
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/'Ajde,_kroči
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/'Ajde,_kroči
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ding-a-dong
+http://dbpedia.org/resource/Ein_bißchen_Frieden
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ding-a-dong
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ding-a-dong
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ding-a-dong
+http://dbpedia.org/resource/Reise_nach_Jerusalem_–_Kudüs'e_seyahat
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ding-a-dong
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ein_bißchen_Frieden
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ein_bißchen_Frieden
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ein_bißchen_Frieden
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+http://dbpedia.org/resource/Reise_nach_Jerusalem_–_Kudüs'e_seyahat
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Everybody_(Tanel_Padar_and_Dave_Benton_song)
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+http://dbpedia.org/resource/Reise_nach_Jerusalem_–_Kudüs'e_seyahat
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Dschinghis_Khan_(song)
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Reise_nach_Jerusalem_–_Kudüs'e_seyahat
+http://dbpedia.org/resource/To_nie_ja!
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+ChessPlayer
+======================================
+=============
+http://dbpedia.org/resource/Garry_Kasparov
+http://dbpedia.org/resource/Viswanathan_Anand
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Garry_Kasparov
+http://dbpedia.org/resource/Magnus_Carlsen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Garry_Kasparov
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Garry_Kasparov
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bobby_Fischer
+http://dbpedia.org/resource/Viswanathan_Anand
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bobby_Fischer
+http://dbpedia.org/resource/Magnus_Carlsen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bobby_Fischer
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bobby_Fischer
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Alexander_Alekhine
+http://dbpedia.org/resource/Viswanathan_Anand
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Alexander_Alekhine
+http://dbpedia.org/resource/Magnus_Carlsen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Alexander_Alekhine
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Alexander_Alekhine
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Anatoly_Karpov
+http://dbpedia.org/resource/Viswanathan_Anand
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Anatoly_Karpov
+http://dbpedia.org/resource/Magnus_Carlsen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Anatoly_Karpov
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Anatoly_Karpov
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Viswanathan_Anand
+http://dbpedia.org/resource/José_Raúl_Capablanca
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Viswanathan_Anand
+http://dbpedia.org/resource/Magnus_Carlsen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Viswanathan_Anand
+http://dbpedia.org/resource/Mikhail_Botvinnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Viswanathan_Anand
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Viswanathan_Anand
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/José_Raúl_Capablanca
+http://dbpedia.org/resource/Magnus_Carlsen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/José_Raúl_Capablanca
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/José_Raúl_Capablanca
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Magnus_Carlsen
+http://dbpedia.org/resource/Mikhail_Botvinnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Magnus_Carlsen
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Magnus_Carlsen
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mikhail_Botvinnik
+http://dbpedia.org/resource/Emanuel_Lasker
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mikhail_Botvinnik
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Emanuel_Lasker
+http://dbpedia.org/resource/Vladimir_Kramnik
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Album
+======================================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/The_Beatles_(album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/Tommy_(album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/Nevermind
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/Abbey_Road
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/Tommy_(album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/Nevermind
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/Abbey_Road
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles_(album)
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+http://dbpedia.org/resource/Tommy_(album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+http://dbpedia.org/resource/Nevermind
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+http://dbpedia.org/resource/Abbey_Road
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Dark_Side_of_the_Moon
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+http://dbpedia.org/resource/Tommy_(album)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+http://dbpedia.org/resource/Nevermind
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+http://dbpedia.org/resource/Abbey_Road
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Thriller_(Michael_Jackson_album)
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tommy_(album)
+http://dbpedia.org/resource/Nevermind
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tommy_(album)
+http://dbpedia.org/resource/Abbey_Road
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tommy_(album)
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tommy_(album)
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tommy_(album)
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Nevermind
+http://dbpedia.org/resource/Abbey_Road
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Nevermind
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Nevermind
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Nevermind
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Abbey_Road
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Abbey_Road
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Abbey_Road
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eurovision_Song_Contest_2006
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/In_the_Aeroplane_Over_the_Sea
+http://dbpedia.org/resource/Tubular_Bells
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Band
+======================================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/The_Rolling_Stones
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/Pink_Floyd
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/U2
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/Led_Zeppelin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/The_Who
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/Metallica
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/Queen_(band)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/The_Beach_Boys
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beatles
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/Pink_Floyd
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/U2
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/Led_Zeppelin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/The_Who
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/Metallica
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/Queen_(band)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/The_Beach_Boys
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Rolling_Stones
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Pink_Floyd
+http://dbpedia.org/resource/U2
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Pink_Floyd
+http://dbpedia.org/resource/Led_Zeppelin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Pink_Floyd
+http://dbpedia.org/resource/The_Who
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Pink_Floyd
+http://dbpedia.org/resource/Metallica
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Pink_Floyd
+http://dbpedia.org/resource/Queen_(band)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Pink_Floyd
+http://dbpedia.org/resource/The_Beach_Boys
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Pink_Floyd
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/U2
+http://dbpedia.org/resource/Led_Zeppelin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/U2
+http://dbpedia.org/resource/The_Who
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/U2
+http://dbpedia.org/resource/Metallica
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/U2
+http://dbpedia.org/resource/Queen_(band)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/U2
+http://dbpedia.org/resource/The_Beach_Boys
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/U2
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Led_Zeppelin
+http://dbpedia.org/resource/The_Who
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Led_Zeppelin
+http://dbpedia.org/resource/Metallica
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Led_Zeppelin
+http://dbpedia.org/resource/Queen_(band)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Led_Zeppelin
+http://dbpedia.org/resource/The_Beach_Boys
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Led_Zeppelin
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Who
+http://dbpedia.org/resource/Metallica
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Who
+http://dbpedia.org/resource/Queen_(band)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Who
+http://dbpedia.org/resource/The_Beach_Boys
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Who
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Metallica
+http://dbpedia.org/resource/Queen_(band)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Metallica
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Queen_(band)
+http://dbpedia.org/resource/The_Beach_Boys
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Queen_(band)
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Beach_Boys
+http://dbpedia.org/resource/Radiohead
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+City
+======================================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Los_Angeles
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Chicago
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Philadelphia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/San_Francisco
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Toronto
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Sydney
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Vienna
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/New_York_City
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/Chicago
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/Philadelphia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/San_Francisco
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/Toronto
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/Sydney
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/Vienna
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Los_Angeles
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chicago
+http://dbpedia.org/resource/Philadelphia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chicago
+http://dbpedia.org/resource/San_Francisco
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chicago
+http://dbpedia.org/resource/Toronto
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chicago
+http://dbpedia.org/resource/Sydney
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chicago
+http://dbpedia.org/resource/Vienna
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chicago
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Chicago
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Philadelphia
+http://dbpedia.org/resource/San_Francisco
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Philadelphia
+http://dbpedia.org/resource/Toronto
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Philadelphia
+http://dbpedia.org/resource/Sydney
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Philadelphia
+http://dbpedia.org/resource/Vienna
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Philadelphia
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Philadelphia
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/San_Francisco
+http://dbpedia.org/resource/Toronto
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/San_Francisco
+http://dbpedia.org/resource/Sydney
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/San_Francisco
+http://dbpedia.org/resource/Vienna
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/San_Francisco
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/San_Francisco
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Toronto
+http://dbpedia.org/resource/Sydney
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Toronto
+http://dbpedia.org/resource/Vienna
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Toronto
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Toronto
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sydney
+http://dbpedia.org/resource/Vienna
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sydney
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Sydney
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vienna
+http://dbpedia.org/resource/Tokyo
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vienna
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tokyo
+http://dbpedia.org/resource/Montreal
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+HistoricPlace
+======================================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Palace_of_Westminster
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Tower_of_London
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Statue_of_Liberty
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Moscow_Kremlin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Lower_East_Side
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Ellis_Island
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/National_Academy_of_Sciences
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Palace_of_Westminster
+http://dbpedia.org/resource/Tower_of_London
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Palace_of_Westminster
+http://dbpedia.org/resource/Moscow_Kremlin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Palace_of_Westminster
+http://dbpedia.org/resource/Lower_East_Side
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Palace_of_Westminster
+http://dbpedia.org/resource/Ellis_Island
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Palace_of_Westminster
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Palace_of_Westminster
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Palace_of_Westminster
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tower_of_London
+http://dbpedia.org/resource/Statue_of_Liberty
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tower_of_London
+http://dbpedia.org/resource/Moscow_Kremlin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tower_of_London
+http://dbpedia.org/resource/Lower_East_Side
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tower_of_London
+http://dbpedia.org/resource/Ellis_Island
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tower_of_London
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tower_of_London
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tower_of_London
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Statue_of_Liberty
+http://dbpedia.org/resource/Moscow_Kremlin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Statue_of_Liberty
+http://dbpedia.org/resource/Lower_East_Side
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Statue_of_Liberty
+http://dbpedia.org/resource/Ellis_Island
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Statue_of_Liberty
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Statue_of_Liberty
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Statue_of_Liberty
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Moscow_Kremlin
+http://dbpedia.org/resource/Lower_East_Side
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Moscow_Kremlin
+http://dbpedia.org/resource/Ellis_Island
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Moscow_Kremlin
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Moscow_Kremlin
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Moscow_Kremlin
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Lower_East_Side
+http://dbpedia.org/resource/Ellis_Island
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Lower_East_Side
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Lower_East_Side
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Lower_East_Side
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ellis_Island
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ellis_Island
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ellis_Island
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+http://dbpedia.org/resource/Taj_Mahal
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Taj_Mahal
+http://dbpedia.org/resource/National_Mall
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+VideoGame
+======================================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/Super_Mario_Galaxy
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/Minecraft
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/RuneScape
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_of_Warcraft
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/Super_Mario_Galaxy
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/Minecraft
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/RuneScape
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Smash_Bros._Brawl
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Mario_Galaxy
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Mario_Galaxy
+http://dbpedia.org/resource/Minecraft
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Mario_Galaxy
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Mario_Galaxy
+http://dbpedia.org/resource/RuneScape
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Mario_Galaxy
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Super_Mario_Galaxy
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+http://dbpedia.org/resource/Minecraft
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+http://dbpedia.org/resource/RuneScape
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+http://dbpedia.org/resource/Minecraft
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+http://dbpedia.org/resource/RuneScape
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto:_San_Andreas
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Minecraft
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Minecraft
+http://dbpedia.org/resource/RuneScape
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Minecraft
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Minecraft
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+http://dbpedia.org/resource/RuneScape
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Grand_Theft_Auto_IV
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/RuneScape
+http://dbpedia.org/resource/Tetris
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/RuneScape
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Tetris
+http://dbpedia.org/resource/The_Legend_of_Zelda:_Ocarina_of_Time
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+University
+======================================
+=============
+http://dbpedia.org/resource/Harvard_University
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/University_of_Oxford
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/University_of_Cambridge
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Columbia_University
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Yale_University
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stanford_University
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+http://dbpedia.org/resource/University_of_California,_Berkeley
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+http://dbpedia.org/resource/Princeton_University
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+http://dbpedia.org/resource/University_of_Chicago
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Mountain
+======================================
+=============
+http://dbpedia.org/resource/Mount_Everest
+http://dbpedia.org/resource/Haleakalā
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Everest
+http://dbpedia.org/resource/Mount_Vesuvius
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Everest
+http://dbpedia.org/resource/Mount_Olympus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Everest
+http://dbpedia.org/resource/Mont_Blanc
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Everest
+http://dbpedia.org/resource/Temple_Mount
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Everest
+http://dbpedia.org/resource/Mount_Sinai
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Everest
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Mount_Vesuvius
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Mount_Olympus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Mont_Blanc
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Denali
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Temple_Mount
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Mount_Sinai
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Scandinavian_Mountains
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Haleakalā
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Vesuvius
+http://dbpedia.org/resource/Mount_Olympus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Vesuvius
+http://dbpedia.org/resource/Mont_Blanc
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Vesuvius
+http://dbpedia.org/resource/Denali
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Vesuvius
+http://dbpedia.org/resource/Temple_Mount
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Vesuvius
+http://dbpedia.org/resource/Mount_Sinai
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Vesuvius
+http://dbpedia.org/resource/Scandinavian_Mountains
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Vesuvius
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Olympus
+http://dbpedia.org/resource/Mont_Blanc
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Olympus
+http://dbpedia.org/resource/Denali
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Olympus
+http://dbpedia.org/resource/Temple_Mount
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Olympus
+http://dbpedia.org/resource/Mount_Sinai
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Olympus
+http://dbpedia.org/resource/Scandinavian_Mountains
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Olympus
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mont_Blanc
+http://dbpedia.org/resource/Denali
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mont_Blanc
+http://dbpedia.org/resource/Temple_Mount
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mont_Blanc
+http://dbpedia.org/resource/Mount_Sinai
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mont_Blanc
+http://dbpedia.org/resource/Scandinavian_Mountains
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mont_Blanc
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Denali
+http://dbpedia.org/resource/Temple_Mount
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Denali
+http://dbpedia.org/resource/Mount_Sinai
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Denali
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Temple_Mount
+http://dbpedia.org/resource/Mount_Sinai
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Temple_Mount
+http://dbpedia.org/resource/Scandinavian_Mountains
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Temple_Mount
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Sinai
+http://dbpedia.org/resource/Scandinavian_Mountains
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mount_Sinai
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Scandinavian_Mountains
+http://dbpedia.org/resource/Mount_Kailash
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Town
+======================================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Stuttgart
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Bremen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Heidelberg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Aachen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Mainz
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Augsburg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Reading,_Berkshire
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Leipzig
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Bremen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Heidelberg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Aachen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Mainz
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Augsburg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Reading,_Berkshire
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stuttgart
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bremen
+http://dbpedia.org/resource/Heidelberg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bremen
+http://dbpedia.org/resource/Aachen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bremen
+http://dbpedia.org/resource/Mainz
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bremen
+http://dbpedia.org/resource/Augsburg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bremen
+http://dbpedia.org/resource/Reading,_Berkshire
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bremen
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Bremen
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heidelberg
+http://dbpedia.org/resource/Aachen
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heidelberg
+http://dbpedia.org/resource/Mainz
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heidelberg
+http://dbpedia.org/resource/Augsburg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heidelberg
+http://dbpedia.org/resource/Reading,_Berkshire
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heidelberg
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Heidelberg
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aachen
+http://dbpedia.org/resource/Mainz
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aachen
+http://dbpedia.org/resource/Augsburg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aachen
+http://dbpedia.org/resource/Reading,_Berkshire
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aachen
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aachen
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mainz
+http://dbpedia.org/resource/Augsburg
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mainz
+http://dbpedia.org/resource/Reading,_Berkshire
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mainz
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mainz
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Augsburg
+http://dbpedia.org/resource/Reading,_Berkshire
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Augsburg
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Augsburg
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Reading,_Berkshire
+http://dbpedia.org/resource/Karlsruhe
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Reading,_Berkshire
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Karlsruhe
+http://dbpedia.org/resource/Freiburg_im_Breisgau
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Comedian
+======================================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Jon_Stewart
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Jay_Leno
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Conan_O'Brien
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Johnny_Carson
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/David_Letterman
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Eddie_Murphy
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Steve_Martin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Stephen_Colbert
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/Jay_Leno
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/Conan_O'Brien
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/Johnny_Carson
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/David_Letterman
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/Eddie_Murphy
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/Steve_Martin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jon_Stewart
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jay_Leno
+http://dbpedia.org/resource/Conan_O'Brien
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jay_Leno
+http://dbpedia.org/resource/Johnny_Carson
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jay_Leno
+http://dbpedia.org/resource/David_Letterman
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jay_Leno
+http://dbpedia.org/resource/Eddie_Murphy
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jay_Leno
+http://dbpedia.org/resource/Steve_Martin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jay_Leno
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jay_Leno
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Conan_O'Brien
+http://dbpedia.org/resource/Johnny_Carson
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Conan_O'Brien
+http://dbpedia.org/resource/David_Letterman
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Conan_O'Brien
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Conan_O'Brien
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Johnny_Carson
+http://dbpedia.org/resource/David_Letterman
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Johnny_Carson
+http://dbpedia.org/resource/Eddie_Murphy
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Johnny_Carson
+http://dbpedia.org/resource/Steve_Martin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Johnny_Carson
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Johnny_Carson
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/David_Letterman
+http://dbpedia.org/resource/Eddie_Murphy
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/David_Letterman
+http://dbpedia.org/resource/Steve_Martin
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/David_Letterman
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/David_Letterman
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eddie_Murphy
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Eddie_Murphy
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Steve_Martin
+http://dbpedia.org/resource/Mel_Brooks
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Steve_Martin
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Mel_Brooks
+http://dbpedia.org/resource/Groucho_Marx
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+MilitaryConflict
+======================================
+=============
+http://dbpedia.org/resource/World_War_II
+http://dbpedia.org/resource/Napoleonic_Wars
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_War_II
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/World_War_II
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/American_Civil_War
+http://dbpedia.org/resource/Napoleonic_Wars
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/American_Civil_War
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/American_Civil_War
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vietnam_War
+http://dbpedia.org/resource/Napoleonic_Wars
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vietnam_War
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Vietnam_War
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/American_Revolutionary_War
+http://dbpedia.org/resource/Napoleonic_Wars
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/American_Revolutionary_War
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/American_Revolutionary_War
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Korean_War
+http://dbpedia.org/resource/Napoleonic_Wars
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Korean_War
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Korean_War
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleonic_Wars
+http://dbpedia.org/resource/Iraq_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleonic_Wars
+http://dbpedia.org/resource/Gulf_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleonic_Wars
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleonic_Wars
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Iraq_War
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Iraq_War
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Gulf_War
+http://dbpedia.org/resource/War_of_1812
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Gulf_War
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/War_of_1812
+http://dbpedia.org/resource/English_Civil_War
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Country
+======================================
+=============
+http://dbpedia.org/resource/United_States
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/United_States
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/France
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/France
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/United_Kingdom
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/United_Kingdom
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Germany
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Germany
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Canada
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Canada
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/India
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/India
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Iran
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Iran
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Australia
+http://dbpedia.org/resource/Russia
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Australia
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Russia
+http://dbpedia.org/resource/China
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+ProgrammingLanguage
+======================================
+=============
+http://dbpedia.org/resource/C_(programming_language)
+http://dbpedia.org/resource/Assembly_language
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/C_(programming_language)
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Java_(programming_language)
+http://dbpedia.org/resource/Assembly_language
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Java_(programming_language)
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/C++
+http://dbpedia.org/resource/Assembly_language
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/C++
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Python_(programming_language)
+http://dbpedia.org/resource/Assembly_language
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Python_(programming_language)
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/JavaScript
+http://dbpedia.org/resource/Assembly_language
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/JavaScript
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Perl
+http://dbpedia.org/resource/Assembly_language
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Perl
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/PHP
+http://dbpedia.org/resource/Assembly_language
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/PHP
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Assembly_language
+http://dbpedia.org/resource/Fortran
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Assembly_language
+http://dbpedia.org/resource/C_Sharp_(programming_language)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Fortran
+http://dbpedia.org/resource/C_Sharp_(programming_language)
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Person
+======================================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/Barack_Obama
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/Napoleon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/Elizabeth_II
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/George_W._Bush
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/Jesus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/Aristotle
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/William_Shakespeare
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Carl_Linnaeus
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/Napoleon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/Elizabeth_II
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/George_W._Bush
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/Jesus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/Aristotle
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/William_Shakespeare
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Barack_Obama
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleon
+http://dbpedia.org/resource/Elizabeth_II
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleon
+http://dbpedia.org/resource/George_W._Bush
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleon
+http://dbpedia.org/resource/Jesus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleon
+http://dbpedia.org/resource/Aristotle
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleon
+http://dbpedia.org/resource/William_Shakespeare
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleon
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Napoleon
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Elizabeth_II
+http://dbpedia.org/resource/George_W._Bush
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Elizabeth_II
+http://dbpedia.org/resource/Jesus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Elizabeth_II
+http://dbpedia.org/resource/Aristotle
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Elizabeth_II
+http://dbpedia.org/resource/William_Shakespeare
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Elizabeth_II
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Elizabeth_II
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/George_W._Bush
+http://dbpedia.org/resource/Jesus
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/George_W._Bush
+http://dbpedia.org/resource/Aristotle
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/George_W._Bush
+http://dbpedia.org/resource/William_Shakespeare
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/George_W._Bush
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/George_W._Bush
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jesus
+http://dbpedia.org/resource/Aristotle
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jesus
+http://dbpedia.org/resource/William_Shakespeare
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jesus
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Jesus
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aristotle
+http://dbpedia.org/resource/William_Shakespeare
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aristotle
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Aristotle
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/William_Shakespeare
+http://dbpedia.org/resource/Adolf_Hitler
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/William_Shakespeare
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Adolf_Hitler
+http://dbpedia.org/resource/Franklin_D._Roosevelt
+============END OF PAIR=====================
+============END OF CATEGORY=====================
+
+PAGERANK
+=============
+Hotel
+======================================
+=============
+http://dbpedia.org/resource/Waldorf_Astoria_New_York
+http://dbpedia.org/resource/Savoy_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Waldorf_Astoria_New_York
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Waldorf_Astoria_New_York
+http://dbpedia.org/resource/The_Beverly_Hills_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Waldorf_Astoria_New_York
+http://dbpedia.org/resource/Hôtel_de_Crillon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Waldorf_Astoria_New_York
+http://dbpedia.org/resource/Château_Laurier
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Waldorf_Astoria_New_York
+http://dbpedia.org/resource/Fairmont_Royal_York
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Waldorf_Astoria_New_York
+http://dbpedia.org/resource/Millennium_Biltmore_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/Renaissance_Center
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/The_Ritz_Hotel,_London
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/The_Beverly_Hills_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/Hôtel_de_Crillon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/Château_Laurier
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/Fairmont_Royal_York
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Savoy_Hotel
+http://dbpedia.org/resource/Millennium_Biltmore_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Renaissance_Center
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Renaissance_Center
+http://dbpedia.org/resource/The_Beverly_Hills_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Renaissance_Center
+http://dbpedia.org/resource/Hôtel_de_Crillon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Renaissance_Center
+http://dbpedia.org/resource/Château_Laurier
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Renaissance_Center
+http://dbpedia.org/resource/Fairmont_Royal_York
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Renaissance_Center
+http://dbpedia.org/resource/Millennium_Biltmore_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+http://dbpedia.org/resource/The_Ritz_Hotel,_London
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+http://dbpedia.org/resource/The_Beverly_Hills_Hotel
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+http://dbpedia.org/resource/Hôtel_de_Crillon
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+http://dbpedia.org/resource/Château_Laurier
+============END OF PAIR=====================
+=============
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles)
+http://dbpedia.org/resource/Fairmont_Royal_York
+============END OF PAIR==
